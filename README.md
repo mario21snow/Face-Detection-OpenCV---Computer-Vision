@@ -1,6 +1,5 @@
 # Face Detection - Computer Vision
 
-**Complete Video Tutorial:** https://youtu.be/hlCQ8XbpiLQ
 
 # Project Information
 
